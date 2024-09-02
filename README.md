@@ -1,8 +1,23 @@
 # Rust-examples
 
+Useful Resources
+----------------
+https://www.rust-lang.org/learn/get-started
+
+https://doc.rust-lang.org/cargo/guide/dependencies.html
+
+
+
+Rustup commands
+---------------
+rustup update
+rustup doc
+
+
 Rust commands
 -------------
-ructc  
+ructc - complle  
+rustfmt - Format source code
 
 Cargo commands
 --------------
