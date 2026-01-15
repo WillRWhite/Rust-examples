@@ -10,7 +10,7 @@ https://doc.rust-lang.org/cargo/guide/dependencies.html
 
 Rust commands  
 -------------  
-rustup - installer and version manager  
+rustup - installer and toolchain manager  
 
 cargo - package manager and build tool  
 ructc - complle  
