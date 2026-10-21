@@ -13,7 +13,7 @@ Rust commands
 rustup - installer and toolchain manager  
 
 cargo - package manager and build tool  
-ructc - complle  
+rustc - complle  
 rustfmt - Format source code  
 
 
